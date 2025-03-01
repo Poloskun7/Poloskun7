@@ -50,6 +50,8 @@
 
 ### I'll be glad if you rate my projects
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Poloskun7&repo=sloykabakery&theme=dark)](https://github.com/Poloskun7/sloykabakery)
+
 ***
 
 ### Where to find me 
