@@ -78,5 +78,5 @@
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" width="30"/>
   <br>
-  <i>"Flutter + Dart = ♾️ Бесконечные возможности."</i>
+  <i>"Flutter + Dart = ♾️ Endless possibilities."</i>
 </p>
