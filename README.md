@@ -48,6 +48,20 @@
 
 ***
 
+### Algorithms and Data Structures
+* 🧩 Core Data Structures
+  * Arrays, Lists, Stacks, Queues, Hash Tables, Trees, Graphs
+* ⚙️ Core Algorithms
+  * Sorting (Quick Sort, Merge Sort, etc.)
+  * Searching (Binary Search, Depth-First Search, Breadth-First Search)
+  * Dynamic Programming
+  * Greedy Algorithms
+* 🧩 Implementation in Dart
+  * Working with Collections (List, Set, Map)
+  * Recursion and Iteration
+  * Optimization of Algorithms for Mobile Devices
+
+***
 ### I'll be glad if you rate my projects
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Poloskun7&repo=sloykabakery&theme=dark)](https://github.com/Poloskun7/sloykabakery)
