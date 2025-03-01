@@ -56,7 +56,7 @@
   * Searching (Binary Search, Depth-First Search, Breadth-First Search)
   * Dynamic Programming
   * Greedy Algorithms
-* 🧩 Implementation in Dart
+* 🎯 Implementation in Dart
   * Working with Collections (List, Set, Map)
   * Recursion and Iteration
   * Optimization of Algorithms for Mobile Devices
