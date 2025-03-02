@@ -24,6 +24,8 @@
     * google_maps_flutter
     * yandex_maps_mapkit_lite
     * flutter_map
+  * Navigation
+    * Go_router
   * Animations
   * Custom widget
   * State Management
