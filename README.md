@@ -71,6 +71,10 @@
   * Recursion and Iteration
   * Optimization of Algorithms for Mobile Devices
 
+### You can view my LeetCode profile
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Poloskun/)
+
 ***
 ### I'll be glad if you rate my projects
 
