@@ -48,6 +48,11 @@
   * MVC
   * MVVM
   * Clean Acrhitecture
+* Git
+  * The branching model
+    * GitFlow
+    * Trunk Based Development
+  * Git actions
 
 ***
 
