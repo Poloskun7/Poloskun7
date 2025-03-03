@@ -41,6 +41,8 @@
   * Cupertino
 * 🧪 Testing
   * Unit-tests
+  * Widget-tests
+  * Integration tests
 * ⚙️ CI/CD
   * Automating the launch of unit tests and integration tests using GitHub Actions.
   * Automatic assembly and deployment of applications.
