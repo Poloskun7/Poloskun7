@@ -15,7 +15,11 @@
 ### My mobile development stack:
 * 🎯 Dart
   * OOP
-  * Stream, Future, async/await
+  * Asynchronous programming 
+    * Futures
+    * The async/await
+    * Streams
+    * Isolates
   * Mixins, generics
 * 🦋 Flutter
   * Working with maps
